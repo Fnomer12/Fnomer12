@@ -1,27 +1,30 @@
-<!-- HERO BANNER (animated SVG) -->
-<p align="center">
-  <img
-    src="https://svg-banners.vercel.app/api?type=origin&text1=Fnomer12&text2=AI%20Engineer%20%7C%20AI%20Bots%20%7C%20Cybersecurity%20%7C%20Automation&width=900&height=220"
-    alt="Fnomer12 banner"
-  />
-</p>
-
-<!-- TYPING LINE -->
-<p align="center">
-  <img
-    src="https://readme-typing-svg.herokuapp.com?size=18&duration=2500&pause=600&center=true&vCenter=true&width=820&lines=AI+Engineer+%E2%80%A2+Agent+Builder;AI+Bots+%26+Automation;Cybersecurity+%E2%80%A2+Secure+Systems;Binary+Mindset+%E2%80%A2+Build+%2F+Break+%2F+Fix"
-    alt="typing"
-  />
-</p>
-
-<!-- OPTIONAL: SMALL BINARY GIF (only if you uploaded it) -->
-<!-- Remove this block if you don't want the GIF -->
+<!-- MATRIX / BINARY RAIN HERO -->
 <p align="center">
   <img
     src="https://raw.githubusercontent.com/Fnomer12/Fnomer12/main/assets/binary-rain.gif"
     width="900"
     alt="binary rain"
   />
+</p>
+
+<!-- TITLE -->
+<h1 align="center">Fnomer12</h1>
+<h3 align="center">AI Engineer • Ethical Hacker (in training) • AI Bots & Automation</h3>
+
+<!-- TYPING EFFECT -->
+<p align="center">
+  <img
+    src="https://readme-typing-svg.herokuapp.com?size=18&duration=2200&pause=700&center=true&vCenter=true&width=900&lines=Binary+Rain+%E2%80%A2+AI+Bots+in+Motion;Build+Agents+%E2%80%A2+Break+in+Labs+%E2%80%A2+Secure+Systems;OSINT+%E2%80%A2+Web+Security+%E2%80%A2+Automation;Ethical+Hacker+Mindset+%E2%80%A2+AI+Engineer+Execution"
+    alt="typing"
+  />
+</p>
+
+<!-- BADGES -->
+<p align="center">
+  <img src="https://img.shields.io/badge/AI%20Engineer-111111?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ethical%20Hacker-111111?style=for-the-badge&logo=protonvpn&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI%20Bots-111111?style=for-the-badge&logo=robotframework&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-111111?style=for-the-badge&logo=linux&logoColor=white" />
 </p>
 
 
