@@ -1,4 +1,12 @@
 <p align="center">
+  <img 
+    src="https://svg-banners.vercel.app/api?type=origin&text1=AI%20BOTS%20%26%20BINARY%20RAIN&text2=Fnomer12%20%7C%20AI%20Engineer%20%7C%20Cybersecurity&width=900&height=220" 
+    alt="AI bots and binary banner"
+  />
+</p>
+
+
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Fnomer12%20%7C%20AI%20Bots%20%26%20Cyber&fontAlignY=35&animation=fadeIn&desc=Building%20AI%20agents%20%7C%20Secure%20systems%20%7C%20Automation&descAlignY=55" />
 </p>
 
