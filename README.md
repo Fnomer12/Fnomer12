@@ -1,4 +1,8 @@
-<!-- =========================
+<p align="center">
+  <img src="./assets/binary-rain.gif" width="1000" alt="Binary rain banner" />
+</p>
+<!-- 
+=========================
      HERO: BINARY RAIN + TITLE
      ========================= -->
 
