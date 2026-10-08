@@ -48,9 +48,9 @@
      ========================= -->
 
 ## 🧠 About Me
-- 🧠 **AI Engineer** building practical agents, automations, and intelligent systems  
+- 🧠 **AI/ML Engineer** building practical agents, automations, and intelligent systems  
 - 🔐 Ethical hacking & cybersecurity practitioner *(learning + labs)*  
-- 💻 **C++, Python, Java, JavaScript, PHP, SQL, C#, Next.js, Flutter**  
+- 💻 **C++, Python, Java, JavaScript, PHP, SQL, C#, Next.js, Flutter, Typescript, Rust, Flutter**  
 - 🧪 Focus: **secure AI systems, web security fundamentals, OSINT, automation**  
 - 🌍 Based in Africa  
 
