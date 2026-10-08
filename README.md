@@ -25,7 +25,7 @@
 -->
 
 <h1 align="center">Fnomer12</h1>
-<h3 align="center">AI Engineer • Ethical Hacker (in training) • AI Bots & Automation</h3>
+<h3 align="center">AI/ML Engineer • Ethical Hacker (in training) • AI Bots & Automation</h3>
 
 <p align="center">
   <img
